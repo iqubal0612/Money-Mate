@@ -5,12 +5,6 @@ With smart features like **categories, filtering, automated reports, and daily r
 
 ---
 
-##  Links
-
--  ##**Live**: [Money Mate](https://money-mate-imam.netlify.app/)
-
----
-
 ##  Features
 
 ###  Secure Authentication
@@ -50,7 +44,7 @@ With smart features like **categories, filtering, automated reports, and daily r
 ### **Backend**
 - Java Spring Boot
 - Spring Security (JWT Authentication)
-- MySQL / PostgreSQL
+- MySQL\
 - Lombok
 - Apache POI (for Excel reports)
 - Java Mail (for email reports & reminders)
@@ -81,23 +75,4 @@ With smart features like **categories, filtering, automated reports, and daily r
 - [Maven](https://maven.apache.org/)
 - [MySQL/PostgreSQL](https://www.postgresql.org/)
 
----
 
-### Backend Setup (Spring Boot)
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Imam-007/money-mate.git
-   cd money-mate
-   mvn spring-boot:run
-    ```
-
-### Frontend Setup (React + Vite)
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Imam-007/money-mate.git
-   cd money-mate/moneymatewebapp
-   npm install
-   npm run dev
-   ```
