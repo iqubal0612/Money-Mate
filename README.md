@@ -7,7 +7,7 @@ With smart features like **categories, filtering, automated reports, and daily r
 
 ##  Links
 
--  **Live**: [Money Mate](https://money-mate-imam.netlify.app/)
+-  ##**Live**: [Money Mate](https://money-mate-imam.netlify.app/)
 
 ---
 
